@@ -1,4 +1,4 @@
-#Design Database
+#Database Design
 
 Design a database that contains information about Organisations that work in the public sector. Each organisation has a name, address, borough, a list of services that it provides and a telephone number. Services include things like Immigration, Housing, Discrimination - this is not a fixed list. Each Organisation has a Contact Person who we need to maintain their contact details (name, email, telephone etc..), a Contact Person can work in more than one Organisation, and each Organisation can have more than one Contact Person with different titles and responsibilities.
 
