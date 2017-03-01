@@ -15,3 +15,7 @@ Think about:
 - This description is intentionally incomplete - ask questions to get clarifications if needed. 
 
 
+Students should come up with an Entity Relationship Diagram (ERD) similar to the one discussed in the session.  
+
+
+
