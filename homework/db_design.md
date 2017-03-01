@@ -18,10 +18,13 @@ Think about:
 Students should come up with an Entity Relationship Diagram (ERD) similar to the one discussed in the session.  
 
 _**Students to be divided into two groups:**_
-- Ehmad, Angela, Ansi
-- Bridget, Mohib, Mohieddin, Sentayhu
+- Senta, Angela, Mohib
+- Mohieddin, Ansi, Ehmed
 
 Both groups should come up with their own design, and this design to be debated next session.
 
+#Research
 
+Students to research on Non-Relational Databases. How they differ from the relational ones, Why would you use a non-relational database over a relational one.
+Students in the same groups to present their finding and discuss it next session. 
 
