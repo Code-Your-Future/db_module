@@ -23,13 +23,18 @@ _**Students to be divided into two groups:**_
 
 Both groups should come up with their own design, and this design to be debated next session.
 
-#Research
+## Research
 
 Students to research on Non-Relational Databases. How they differ from the relational ones, Why would you use a non-relational database over a relational one.
 Students in the same groups to present their finding and discuss it next session. 
 
 
-#Exercises
+## Exercises
 
 Please use this website to exercise more on SELECT and JOIN
 http://sqlzoo.net/
+
+
+## Resources
+
+If you need to revisit any SQL and RDBMS concepts, then Khan Academy has [a great course](https://www.khanacademy.org/computing/computer-programming/sql).
